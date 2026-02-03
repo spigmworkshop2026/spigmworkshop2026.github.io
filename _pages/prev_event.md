@@ -9,5 +9,6 @@ nav_order: 6
 
 <br>
 
+* [SPIGM workshop @ NeurIPS 2025](https://spigmworkshopv3.github.io/)
 * [SPIGM workshop @ ICML 2024](https://spigmworkshop2024.github.io/)
 * [SPIGM workshop @ ICML 2023](https://spigmworkshop.github.io/)

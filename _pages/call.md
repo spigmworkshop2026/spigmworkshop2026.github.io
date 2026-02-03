@@ -10,7 +10,7 @@ nav_order: 4
 <br>
 
 ## Openreview venue
-Our openreview website for submission is [this](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/SPIGM).
+Our openreview website for submission will be released later.
 
 
 ## Topics
@@ -19,6 +19,8 @@ We invite submissions related (but not limited) to the following topics:
 
 * Inference and generating methods for graphs, time series, text, video, and other structured modalities
 * Unsupervised representation learning of high dimensional structured data
+* Sampling and variational inference
+* Intersection between probabilistic inference and LLMs, VLMs, VLAs, and foundation models
 * Scaling and accelerating inference and generative models on structured data
 * Uncertainty quantification in AI systems
 * Applications and practical implementations of existing methods to areas in science
@@ -27,14 +29,14 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates (Anywhere on Earth) 
 
-* Submission: ~~August 22~~ August 29, 2025
-* Review deadline: September 18, 2025
-* Accept / Reject notification date: September 22, 2025
-* Workshop date: December 6th, 2025
+* Submission:  TBD
+* Review deadline: TBD
+* Accept / Reject notification date: TBD
+* Workshop date: TBD
 
 ## Details
 
-*   **Formatting Instructions**: We solicit 4-to-8-page workshop papers (with unlimited references and appendix) following NeurIPS 2025 main conference paper template. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+*   **Formatting Instructions**: We solicit 4-to-8-page workshop papers (with unlimited references and appendix) following ICML 2026 main conference paper template. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 * **What can be sumitted**: Following the convention of most workshops, we welcome submissions of papers already published in journals or presented at non–machine-learning conferences or workshops. If a paper has appeared in a machine-learning venue—such as ICLR, NeurIPS, ICML, CVPR, AISTATS, or similar—we will consider it only if it includes substantial extensions or new results. We also recognize that, due to unforeseen circumstances (e.g., visa), some authors have published papers but did not have the opportunity to present them; accordingly, this year we make an exception to allow those papers to submit to our workshop as well.
 
