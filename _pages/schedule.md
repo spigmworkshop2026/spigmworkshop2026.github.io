@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at NeurIPS 2025 at the Room 20C of San Diego Convention Center, USA, on Saturday Dec 6th.  The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone can be found below.
+description: This workshop will be held in-person at ICML 2026.  The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone can be found below.
 # <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 3
@@ -35,36 +35,23 @@ nav_order: 3
     <td>8:40 - 9:10</td>
     <td>Invited Talk</td>
     <td>
-    <b> Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds </b><br>
-    Jiaxin Shi <i>  </i></td>
+    <b> TBD </b><br>
+    TBD <i>  </i></td>
   </tr>
-  <!-- <tr> TODO
-    <td></td>
-    <td></td>
-    <td>
-      Update Talk Abstract</td>
-  </tr> -->
 
   <tr class="header">
-    <td>9:10 - 9:25</td>
-    <td> Sponser Talk </td>
+    <td>9:10 - 9:40</td>
+    <td> Invited Talk </td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
-     <i> Basis Research Institute </i></td>
-  </tr>
- <tr class="header">
-    <td>9:25 - 9:40</td>
-    <td> Sponser Talk </td>
-    <td>
-    <!-- <b> Title TODO </b><br> -->
-     <i> Genesis Molecular AI </i></td>
+    <b> TBD </b><br>
+     <i> TBD </i></td>
   </tr>
   <tr class="header">
     <td>9:40 - 10:10</td>
-    <td>	Invited Talk </td>
+    <td>	Sponser Talk </td>
     <td>
-    <b> Iterative Improvement for Large-Scale Generative Models </b><br>
-    Chelsea Finn, Yoonho Lee <i>  </i></td>
+    <b> TBD </b><br>
+   TBD <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -86,35 +73,35 @@ nav_order: 3
     <td>10:30 - 11:00</td>
     <td>Invited Talk</td>
     <td>
-    <b> Probabilistic Inference is the Future of Foundation Models </b><br>
-    Andrew Gordon Wilson <i>  </i></td>
+    <b> TBD </b><br>
+   TBD <i>  </i></td>
   </tr>
 
   <tr class="header">
     <td>11:00 - 11:10</td>
     <td>Contributed Talks</td>
     <td>
-      <b> Any-Subset Autoregressive Models and Speculative Decoding </b><br>
-      <br>Gabe Guo<i></i>
+      <b> TBD </b><br>
+      <br>TBD<i></i>
     </td>
   </tr>
 
   <tr class="header">
     <td>11:10 - 11:20</td>
-    <td>Contributed Talks</td>
+    <td>TBD</td>
     <td>
-      <b> Ambient Diffusion Omni </b><br>
-      <br>Giannis Daras<i></i>
+      <b> TBD</b><br>
+      <br>TBD<i></i>
     </td>
   </tr>
 
 
   <tr class="header">
     <td>11:20 - 11:30</td>
-    <td>Contributed Talks</td>
+    <td>TBD</td>
     <td>
-      <b> Learning Boltzmann Generators via Constrained Mass Transport </b><br>
-      <br> Denis Blessing <i></i>
+      <b> TBD </b><br>
+      <br> TBD <i></i>
     </td>
   </tr>
 
@@ -130,8 +117,8 @@ nav_order: 3
   <tr class="header">
     <td>12:30 - 13:30</td>
     <td>Panel Session</td>
-    <td> <b>Is probabilistic inference still relevant in the era of foundation models?</b><br>
-    <br> Valentin De Bortoli, Carles Domingo-enrich, Xiang Lisa Li, Luhuan Wu <i></i>
+    <td> <b> </b><br>
+    <br> TBD <i></i>
     </td>
   </tr>
 
@@ -139,8 +126,8 @@ nav_order: 3
     <td>13:30 - 14:00</td>
     <td>Invited Talk</td>
     <td>
-    <b> When Scaling Laws Fail: Test-time Scaling in Generative AI for Science </b><br>
-    Arash Vahdat <i>  </i></td>
+    <b> TBD </b><br>
+   TBD <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -152,8 +139,8 @@ nav_order: 3
     <td>14:00 - 14:30</td>
     <td>Invited Talk</td>
     <td>
-    <b> Video diffusion models as world models </b><br>
-   Ruiqi Gao <i>  </i></td>
+    <b> TBD </b><br>
+  TBD <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -173,16 +160,16 @@ nav_order: 3
     <td>14:40 - 15:10</td>
     <td>Invited Talk</td>
     <td>
-    <b> Skala: Advancing the Accuracy of Computational Chemistry with Deep Learning </b><br>
-    Giulia Luise <i>  </i></td>
+    <b> TBD </b><br>
+  TBD <i>  </i></td>
   </tr>
 
   <tr class="header">
     <td>15:10 - 15:20</td>
     <td>Contributed Talks</td>
     <td>
-      <b> Inference-time scaling of diffusion models through classical search </b><br>
-      <br>Xiangcheng Zhang<i></i>
+      <b> TBD </b><br>
+      <br>TBD<i></i>
     </td>
   </tr>
 
@@ -191,8 +178,8 @@ nav_order: 3
     <td>15:20 - 15:30</td>
     <td>Contributed Talks</td>
     <td>
-      <b> Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization </b><br>
-      <br>Kiyoung Om<i></i>
+      <b> TBD </b><br>
+      <br>TBD<i></i>
     </td>
   </tr>
 
@@ -200,8 +187,8 @@ nav_order: 3
     <td>15:30 - 15:40</td>
     <td>Contributed Talks</td>
     <td>
-      <b> When rule learning breaks: Diffusion Fails to Learn Parity of Many Bits</b><br>
-      <br>Binxu Wang<i></i>
+      <b> TBD </b><br>
+      <br>TBD<i></i>
     </td>
   </tr>
 
