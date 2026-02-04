@@ -79,7 +79,7 @@ nav_order: 3
 
   <tr class="header">
     <td>11:00 - 11:10</td>
-    <td>Contributed Talks</td>
+    <td>Contributed Talks </td>
     <td>
       <b> TBD </b><br>
       <br>TBD<i></i>
