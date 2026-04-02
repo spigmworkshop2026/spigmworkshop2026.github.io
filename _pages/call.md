@@ -10,7 +10,7 @@ nav_order: 4
 <br>
 
 ## Openreview venue
-Our openreview website for submission will be released later.
+Our openreview website for submission is at https://openreview.net/group?id=ICML.cc/2026/Workshop/SPIGM
 
 
 ## Topics
@@ -29,10 +29,10 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates (Anywhere on Earth) 
 
-* Submission:  TBD
-* Review deadline: TBD
-* Accept / Reject notification date: TBD
-* Workshop date: TBD
+* Submission:  April 24 AOE, 2026
+* Review deadline: May 10 AOE, 2026
+* Accept / Reject notification date: May 15 AOE, 2026
+* Workshop date: July 10 or 11, 2026 (TBD)
 
 ## Details
 
