@@ -29,7 +29,7 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates (Anywhere on Earth) 
 
-* Submission:  April 24 AOE, 2026
+* Submission: <s>April 24 AOE, 2026</s> 1 May AOE, 2026
 * Review deadline: May 10 AOE, 2026
 * Accept / Reject notification date: May 15 AOE, 2026
 * Workshop date: July 10 or 11, 2026 (TBD)
