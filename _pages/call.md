@@ -29,10 +29,14 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates (Anywhere on Earth) 
 
-* Submission: <s>April 24 AOE, 2026</s> 1 May AOE, 2026
-* Review deadline: May 10 AOE, 2026
-* Accept / Reject notification date: May 15 AOE, 2026
+* Submission: <s>April 24 AOE, 2026</s> <s>1 May AOE, 2026</s>8 May AOE, 2026
+* Review deadline: <s>May 10 AOE, 2026</s>18 May AOE, 2026
+* Accept / Reject notification date: <s>May 15 AOE, 2026</s>22 May AOE, 2026
 * Workshop date: July 10 or 11, 2026 (TBD)
+
+**We are grateful to ICML for allowing us to extend the notification deadline by one week. However, applicants who wish to apply for ICML financial aid should still submit their financial aid application by 18 May, even if the acceptance status of their workshop paper is not yet known.**
+
+
 
 ## Details
 
