@@ -2,212 +2,128 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at ICML 2026 in HALL D1.  The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone can be found below.
-# <b>(Click the talks to see their abstracts)</b>
+description: This workshop will be held in-person at ICML 2026 on Friday, July 10 in HALL D1, Seoul. The program covers invited talks, contributed talks, posters, and a panel discussion.
 nav: true
 nav_order: 3
 ---
+
+<p>Friday, July 10, 2026 · HALL D1, Seoul. Official ICML page: <a href="https://icml.cc/virtual/2026/workshop/54089" target="_blank" rel="noopener noreferrer">4th Structured Probabilistic Inference &amp; Generative Modeling</a>.</p>
 
 <br>
 
 <div>
 <table class="table" id="standings" style="border-collapse:collapse">
 <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
-        <th style="border-top-left-radius: 10px; width: 20%">San Diego Time (PST)</th>
+        <th style="border-top-left-radius: 10px; width: 20%">Seoul Time (KST)</th>
         <th style="width: 18%">Type</th>
-        <th style="width: 62% border-top-right-radius: 10px;">Title & Speakers</th>
+        <th style="width: 62% border-top-right-radius: 10px;">Title &amp; Speakers</th>
       </tr>
-      <tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>8:00 - 8:30</td>
+        <td>9:00 - 9:20</td>
         <td></td>
         <td>Coffee Break</td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>8:30 - 8:40</td>
+        <td>9:20 - 9:30</td>
         <td></td>
         <td>Opening Remarks</td>
   </tr>
-  <!-- <tr class="header" style="cursor: pointer"> TODO -->
   <tr class="header">
-    <td>8:40 - 9:10</td>
+    <td>9:30 - 10:00</td>
     <td>Invited Talk</td>
     <td>
-    <b> TBD </b><br>
-    TBD <i>  </i></td>
-  </tr>
-
-  <tr class="header">
-    <td>9:10 - 9:40</td>
-    <td> Invited Talk </td>
-    <td>
-    <b> TBD </b><br>
-     <i> TBD </i></td>
+    Mingyuan Zhou <i>(Microsoft AI Superintelligence, UT Austin)</i></td>
   </tr>
   <tr class="header">
-    <td>9:40 - 10:10</td>
-    <td>	Sponser Talk </td>
+    <td>10:00 - 10:10</td>
+    <td>Contributed Talk</td>
     <td>
-    <b> TBD </b><br>
-   TBD <i>  </i></td>
+      <b>Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models</b>
+    </td>
   </tr>
-  <!-- <tr>
-    <td></td>
-    <td></td>
-    <td>
-      TBD</td>
-  </tr> -->
-
-
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>10:10 - 10:30</td>
-        <td></td>
-        <td>Coffee Break</td>
-  </tr>
-
-  
   <tr class="header">
-    <td>10:30 - 11:00</td>
+    <td>10:10 - 10:20</td>
+    <td>Contributed Talk</td>
+    <td>
+      <b>Exact Posterior Score Estimation for Solving Linear Inverse Problems</b>
+    </td>
+  </tr>
+  <tr class="header">
+    <td>10:20 - 10:50</td>
     <td>Invited Talk</td>
     <td>
-    <b> TBD </b><br>
-   TBD <i>  </i></td>
+    Jona Ballé <i>(NYU)</i></td>
   </tr>
-
+  <tr class="header">
+    <td>10:50 - 11:00</td>
+    <td>Contributed Talk</td>
+    <td>
+      <b>When are likely answers right? On Sequence Probability and Correctness in LLMs</b>
+    </td>
+  </tr>
   <tr class="header">
     <td>11:00 - 11:10</td>
-    <td>Contributed Talks </td>
+    <td>Contributed Talk</td>
     <td>
-      <b> TBD </b><br>
-      <br>TBD<i></i>
+      <b>Structured Coupling for Flow Matching</b>
     </td>
   </tr>
-
   <tr class="header">
-    <td>11:10 - 11:20</td>
-    <td>Contributed Talks</td>
+    <td>11:10 - 11:40</td>
+    <td>Invited Talk</td>
     <td>
-      <b> TBD</b><br>
-      <br>TBD<i></i>
-    </td>
+    Jiatao Gu <i>(UPenn CIS / Apple MLR)</i></td>
   </tr>
-
-
-  <tr class="header">
-    <td>11:20 - 11:30</td>
-    <td>Contributed Talks</td>
-    <td>
-      <b> TBD </b><br>
-      <br> TBD <i></i>
-    </td>
-  </tr>
-
-
-
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>11:30 - 12:30</td>
+        <td>11:40 - 13:30</td>
         <td></td>
-        <td>Poster Session #1 &amp; Lunch Break</td>
+        <td>Poster Session &amp; Lunch Break</td>
   </tr>
-
   <tr class="header">
-    <td>12:30 - 13:30</td>
+    <td>13:30 - 14:30</td>
     <td>Panel Session</td>
-    <td> <b> </b><br>
-    <br> TBD <i></i>
+    <td>
+    <b>Diffusion Language Models vs Autoregressive Language Models?</b><br>
+    Subham Sekhar Sahoo <i>(MBZUAI - IFM)</i><br>
+    Stefano Ermon <i>(Stanford University)</i><br>
+    Jiaxin Shi <i>(Meta SuperIntelligence Labs)</i>
     </td>
   </tr>
-
   <tr class="header">
-    <td>13:30 - 14:00</td>
+    <td>14:30 - 15:00</td>
     <td>Invited Talk</td>
     <td>
-    <b> TBD </b><br>
-   TBD <i>  </i></td>
+    Pilar Cossio <i>(Flatiron Institute)</i></td>
   </tr>
-  <!-- <tr>
-    <td></td>
-    <td></td>
-    <td>
-      TBD</td>
-  </tr> -->
   <tr class="header">
-    <td>14:00 - 14:30</td>
+    <td>15:00 - 15:10</td>
+    <td>Contributed Talk</td>
+    <td>
+      <b>ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space</b>
+    </td>
+  </tr>
+  <tr class="header">
+    <td>15:10 - 15:30</td>
+    <td>Contributed Talk</td>
+    <td>
+      <b>Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</b>
+    </td>
+  </tr>
+  <tr class="header">
+    <td>15:30 - 16:00</td>
     <td>Invited Talk</td>
     <td>
-    <b> TBD </b><br>
-  TBD <i>  </i></td>
+    Soojung Yang</td>
   </tr>
-  <!-- <tr>
-    <td></td>
-    <td></td>
-    <td>
-      TBD</td>
-  </tr> -->
-
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>14:30 - 14:40</td>
+        <td>16:00 - 16:10</td>
         <td></td>
-        <td>Coffee Break</td>
+        <td>Closing Remarks</td>
   </tr>
-
-  <tr class="header">
-    <td>14:40 - 15:10</td>
-    <td>Invited Talk</td>
-    <td>
-    <b> TBD </b><br>
-  TBD <i>  </i></td>
-  </tr>
-
-  <tr class="header">
-    <td>15:10 - 15:20</td>
-    <td>Contributed Talks</td>
-    <td>
-      <b> TBD </b><br>
-      <br>TBD<i></i>
-    </td>
-  </tr>
-
-
-  <tr class="header">
-    <td>15:20 - 15:30</td>
-    <td>Contributed Talks</td>
-    <td>
-      <b> TBD </b><br>
-      <br>TBD<i></i>
-    </td>
-  </tr>
-
-  <tr class="header">
-    <td>15:30 - 15:40</td>
-    <td>Contributed Talks</td>
-    <td>
-      <b> TBD </b><br>
-      <br>TBD<i></i>
-    </td>
-  </tr>
-
-  <tr class="header">
-    <td>15:40 - 15:45</td>
-    <td></td>
-    <td>
-    <!-- <b> Title TODO </b><br> -->
-    Awards, takeaways, and closing <i>  </i></td>
-  </tr>
-
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>15:45 - 17:00</td>
+        <td>16:10 - 17:00</td>
         <td></td>
-        <td>Poster Session #2 &amp; Social </td>
+        <td>Poster Session</td>
   </tr>
-
-
-
-<!-- </table> -->
-<!-- </div> -->
+</table>
+</div>
