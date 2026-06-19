@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at ICML 2026.  The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone can be found below.
+description: This workshop will be held in-person at ICML 2026 in HALL D1.  The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone can be found below.
 # <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 3
