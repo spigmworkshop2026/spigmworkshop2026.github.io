@@ -103,7 +103,7 @@ nav_order: 3
     </td>
   </tr>
   <tr class="header">
-    <td>15:10 - 15:30</td>
+    <td>15:10 - 15:20</td>
     <td>Contributed Talk</td>
     <td>
       <b>Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</b>
