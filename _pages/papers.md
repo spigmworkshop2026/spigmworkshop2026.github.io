@@ -9,9 +9,9 @@ nav_order: 5
 
 <br>
 
-<ol>
+<ul>
 {% assign papers = site.data.papers | sort: "title" %}
 {% for paper in papers %}
-  <li><a href="{{ paper.forum }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a></li>
+  <li><strong>{{ paper.id }}</strong>. <a href="{{ paper.forum }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a></li>
 {% endfor %}
-</ol>
+</ul>
