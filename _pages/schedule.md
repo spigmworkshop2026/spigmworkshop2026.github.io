@@ -52,7 +52,7 @@ nav_order: 3
     <td>10:20 - 10:50</td>
     <td>Invited Talk</td>
     <td>
-    Jona Ballé <i>(NYU)</i></td>
+    Jiatao Gu <i>(UPenn CIS / Apple MLR)</i></td>
   </tr>
   <tr class="header">
     <td>10:50 - 11:00</td>
@@ -72,7 +72,7 @@ nav_order: 3
     <td>11:10 - 11:40</td>
     <td>Invited Talk</td>
     <td>
-    Jiatao Gu <i>(UPenn CIS / Apple MLR)</i></td>
+    Pilar Cossio <i>(Flatiron Institute)</i></td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
         <td>11:40 - 13:30</td>
@@ -93,7 +93,7 @@ nav_order: 3
     <td>14:30 - 15:00</td>
     <td>Invited Talk</td>
     <td>
-    Pilar Cossio <i>(Flatiron Institute)</i></td>
+    Jona Ballé <i>(NYU)</i></td>
   </tr>
   <tr class="header">
     <td>15:00 - 15:10</td>
