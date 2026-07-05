@@ -87,6 +87,8 @@ nav_order: 3
     Subham Sekhar Sahoo <i>(MBZUAI - IFM)</i><br>
     Stefano Ermon <i>(Stanford University)</i><br>
     Jiaxin Shi <i>(Meta SuperIntelligence Labs)</i>
+    Yingzhen Li <i>(Imperial College London, Nanyang Technological University)</i>
+    Volodymyr Kuleshov <i>(Cornell)</i>
     </td>
   </tr>
   <tr class="header">
@@ -113,7 +115,7 @@ nav_order: 3
     <td>15:30 - 16:00</td>
     <td>Invited Talk</td>
     <td>
-    Soojung Yang</td>
+    Soojung Yang<i>(Stanford)</i></td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
         <td>16:00 - 16:10</td>
