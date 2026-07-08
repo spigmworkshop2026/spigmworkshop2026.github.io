@@ -86,8 +86,8 @@ nav_order: 3
     <b>Diffusion Language Models vs Autoregressive Language Models?</b><br>
     Subham Sekhar Sahoo <i>(MBZUAI - IFM)</i><br>
     Stefano Ermon <i>(Stanford University)</i><br>
-    Jiaxin Shi <i>(Meta SuperIntelligence Labs)</i>
-    Yingzhen Li <i>(Imperial College London, Nanyang Technological University)</i>
+    Jiaxin Shi <i>(Meta SuperIntelligence Labs)</i><br>
+    Yingzhen Li <i>(Imperial College London, Nanyang Technological University)</i><br>
     Volodymyr Kuleshov <i>(Cornell)</i>
     </td>
   </tr>
@@ -112,15 +112,15 @@ nav_order: 3
     </td>
   </tr>
   <tr class="header">
-    <td>15:30 - 16:00</td>
+    <td>15:20 - 15:50</td>
     <td>Invited Talk</td>
     <td>
     Soojung Yang<i>(Stanford)</i></td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-        <td>16:00 - 16:10</td>
+        <td>15:50 - 16:10</td>
         <td></td>
-        <td>Closing Remarks</td>
+        <td>Award Announcement, Closing Remarks</td>
   </tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
         <td>16:10 - 17:00</td>
