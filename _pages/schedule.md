@@ -77,7 +77,7 @@ nav_order: 3
   <tr class="header" style="background-color:rgb(240, 240, 240);">
         <td>11:40 - 13:30</td>
         <td></td>
-        <td>Poster Session &amp; Lunch Break</td>
+        <td>Poster Session (HALL A: 407–416, 500–516, 600–616, 700–708)&amp; Lunch Break</td>
   </tr>
   <tr class="header">
     <td>13:30 - 14:30</td>
@@ -125,7 +125,7 @@ nav_order: 3
   <tr class="header" style="background-color:rgb(240, 240, 240);">
         <td>16:10 - 17:00</td>
         <td></td>
-        <td>Poster Session</td>
+        <td>Poster Session (HALL A: 407–416, 500–516, 600–616, 700–708)</td>
   </tr>
 </table>
 </div>
