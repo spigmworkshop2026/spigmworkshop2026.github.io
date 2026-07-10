@@ -9,6 +9,11 @@ nav_order: 3
 
 <p>Friday, July 10, 2026 · HALL D1, Seoul. Official ICML page: <a href="https://icml.cc/virtual/2026/workshop/54089" target="_blank" rel="noopener noreferrer">4th Structured Probabilistic Inference &amp; Generative Modeling</a>.</p>
 
+For the poster session, please hang your poster in **Hall A**, using any available board within the following ranges: 407–416, 500–516, 600–616, or 700–708
+
+You may use any empty space on these boards. Please note that **each board can accommodate two posters**.
+
+
 <br>
 
 <div>
